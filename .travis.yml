@@ -1,5 +1,7 @@
 language: ruby
 rbenv:
+  - 2.3.1
+  - jruby
   - 2.3.1p112
   - rbx-2
 
