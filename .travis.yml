@@ -4,3 +4,8 @@ rbenv:
   - rbx-2
 
 os: osx
+
+jobs:
+  include:
+    - stage: test
+  
