@@ -1,7 +1,6 @@
 language: ruby
 rbenv:
-  - 2.2
-  - jruby
   - 2.3.1p112
+  - rbx-2
 
-install: gem install rails
+os: osx
