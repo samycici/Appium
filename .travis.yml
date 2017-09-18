@@ -1,8 +1,7 @@
 language: ruby
-rvm:
-  - 2.3.1
-  - jruby
+rbenv:
   - 2.3.1p112
+  - jruby
   - rbx-2
 
 os: osx
