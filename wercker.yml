@@ -27,4 +27,7 @@ build:
             code: bundle exec rspec
 
 
-            
+android:
+    steps:
+        -script:
+          code: appium 
